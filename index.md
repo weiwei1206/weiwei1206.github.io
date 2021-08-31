@@ -27,14 +27,13 @@
 + Relevant Coursework:
 ```markdown
 
-Data Structures(96), Digital Logic(98), Design and Analysis of Algorithm(100), Database System(94),
-Computer Organization & Architecture(96), Principle of Compiler(96), 
-Neural Networks and Deep Learning(93), Java Programming(95), 
+Data Structures, Digital Logic, Design and Analysis of Algorithm, Database System,
+Computer Organization & Architecture, Principle of Compiler, 
+Neural Networks and Deep Learning, Java Programming, 
 
-~~Advanced Language Program Design(C++)(91)~~
-~~Mathematics Analysis(Calculus Mainly)(91)~~, ~~Discrete Mathematics(90)~~, ~~Linear Algebra & Analytic Geometry~~, ~~Numerical Methods(91)~~,
-~~Computer Network~~, ~~Embedded System~~, 
-~~Data Warehouse and Data Mining~~, ~~The Method of Mathematical Modeling(A)~~
+Advanced Language Program Design(C++)
+Mathematics Analysis(Calculus Mainly), Discrete Mathematics, Linear Algebra & Analytic Geometry, Numerical Methods, Computer Network, Embedded System, 
+Data Warehouse and Data Mining, The Method of Mathematical Modeling
 ```
 + Scholarships: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
 
