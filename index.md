@@ -127,9 +127,9 @@ Neural Networks and Deep Learning(93), Java Programming(95),
 
 ### SOFTWARE COPYRIGHT
 *****
-+ WeiWei, 基于机器学习的新品推荐平台. (2021-06-03, China Software Copyright, 2021SR1077293). [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Xu Dechao,Wei Wei, Huang Weijun, 基于深度学习的交通信息流处理平台. (2021-06-03, China Software Copyright, 2021SR1171249). [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Li Xingyu,Wei Wei, Chen Yupeng, 基于自然语言处理技术的信息挖掘平台. (2021-06-24, China Software Copyright, 2021SR1176023). [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Wei Wei, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Xu Dechao, Wei Wei, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Wei Wei, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 ### LEADERSHIP EXPERIENCE
 *****
