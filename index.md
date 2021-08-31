@@ -11,7 +11,7 @@
       <p><b>South China University of Technology (SCUT)</b></p>
       <p><b>Email：csweiw@mail.scut.edu.cn</b></p>   
       <p><b>Phone number：csweiw@mail.scut.edu.cn</b></p>
-      <p><b>Address：Dongguan Zhuang Road, TianHe District, Guangzhou, 510630, Guangdong Province, China</b></p>
+      <!--<p><b>Address：Dongguan Zhuang Road, TianHe District, Guangzhou, 510630, Guangdong Province, China</b></p>-->
     </td>
     <td width="25%">
       <img src="/Pictures/WW.jpg" width="100%">      
