@@ -1,4 +1,4 @@
-# Welcome to WW's personal home page.
+# Welcome to WW's home page.
 ```markdown
 
 ```
@@ -81,20 +81,43 @@ Data Warehouse and Data Mining, The Method of Mathematical Modeling
         <td width="25%"><img src="/Pictures/CMLParameter.png" width="50%"></td>
 
 
-+ Multi-Channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning.
-    - <u>Main Researcher, supervised by Dr. Wu</u>                                                <p align="right">Apr. 2021 - July</p>
++ Contrastive Meta Learning with Behavior Multiplicity for Recommendation
+Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang   
+May 2021 - Aug. 2021
+  - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
+from auxiliary to target behaviors for different users
+  - Designed and implemented InfoNCE loss to learn the relationship between auxiliary and target behaviors
+  - Conducted comprehensive literature review for self-supervised graph learning / contrastive learning
+  - The proposed multi-behavior model significantly outperforms all baselines methods under various settings
+  - Submitted a conference paper to WSDM 2022 as the first author
 
-+ A Review of Deep Networks and Recommender System Algorithms.
-    - <u>Researcher, Visual Computing Research Center of SCUT, Supervised by Prof. Xu Yong</u>   <p align="right">Oct. 2020 - June 2021</p>
++ Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity
+Undergraduate Thesis, supervised by Dr. Chao Huang                              Nov. 2020 - June 2021
+  - Proposed a multi-behavior sequential recommendation model based on hypergraph and used self-attention  
+to model the relationship between multiple behaviors for each user
+  - Implemented the dynamic timestamp processing module and multi-time granularity hypergraph module
+  - Designed and implemented attention module to fuse multi-behavior information
+  - The proposed model achieves state-of-the-art performance on three datasets, with demonstrated stability  
+and interpretability
 
-+ Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity.
-    - <u>Undergraduate Thesis, supervised by Prof. Xu Yong</u>                                   <p align="right">Nov. 2020 - June 2021</p>
++ Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning
+Main Researcher, CAICT, supervised by Dr. Di Wu                                Apr. 2021 - July 2021
+  - Proposed the Multi-Channel Relation Modeling Net, an assembling architecture composed of   
+Recurrent Neural Networks, Graph Neural Network and Transformer modules
+  - Designed multi-relation factorized pooling module to integrate multi-relation embedding
+  - Devised a mutual information-based objective using self-supervised learning to generate more informative 	feature embedding
 
-+ Research on pedestrian Re-ID algorithm based on domain adaptation.
-    - <u>Team Member, supervised by Prof. Jian Ming LV</u>                                       <p align="right">Mar. 2019 - Mar. 2020</p>
++ Survey on Graph Neural Network Recommendation
+Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv                     Oct. 2020 - June 2021
+  - Investigated the application of GNN in recommendation system including Sequential graph 	recommendation algorithm (MA-GNN, SR-GNN, GCE-GNN), KG-based recommendation algorithm 	(KGAT, Chorus), self-supervised graph/recommendation algorithm ( SGL, DGI, S3-Rec) and graph 	recommendation using meta network MB-GMN
+  - Summarized key components of recommendation systems: objectives of the recommendation system, 	common types of data and their characteristics, recall and sorting and evaluating metrics
 
-+ Machine learning algorithm and neural network for image classification.
-    - <u>Main Researcher, supervised by Dr. Zhang Jianwei</u>                                    <p align="right">March 2018 - June</p>
++ Research on Pedestrian Re-ID Algorithm Based on Domain Adaptation
+Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV 
+Mar. 2019 - Mar. 2020
+  - Reviewed articles related to Re-ID and domain adaptation (DDC, DAN, RTN, JAN, DANN)
+  - Conducted data analysis and learned to experiment through computing resources on Linux server
+  - Won the Excellent Student Research Program (for top 5% students) of SCUT
 
 ### SKILLS
 *****
@@ -106,7 +129,8 @@ Data Warehouse and Data Mining, The Method of Mathematical Modeling
 , 1000W power supply and i7 tenth generation processor
     - _Software_: Installing the Ubuntu/Windows system, CUDA, cuDNN, Anaconda, Common IDE
 + __Programming Languages__: Python, C/C++, Markdown, HTML, CSS, Java Script
-+ __Other Software__: Github, MySQL
++ __Database__: MySQL
++ __Other Software__: Github, Mendeley, Latex, Conda
 + __Operating Systems__: Linux(shell/command line), Windows
 + __Languages__: English (proficient), Mandarin (native)
 
@@ -132,6 +156,9 @@ Data Warehouse and Data Mining, The Method of Mathematical Modeling
 
 ### LEADERSHIP EXPERIENCE
 *****
-+ __Director__, Technical Center of Student Association, SCUT                                <p align="right">Dec. 2017 - Nov. 2018</P>
++ __Department Manager__, Technical Center of Student Association, SCUT                                <p align="right">Dec. 2017 - Nov. 2018</P>
+  - Edited promotional video with Adobe Pr and Ae, produced posters using Adobe Ai and Ps
+  - Responsible for the daily maintenance and management of the official website & WeChat account
 + __Class Monitor__                                                                          <p align="right">Sept. 2017 - Sept. 2018</p>
-
+  - Held class communication and sharing meetings to provide help for students’ career planning
+  - Assisted in hosting events, such as sports meetings and evening parties
