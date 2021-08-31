@@ -24,7 +24,8 @@
 
 ### EDUCATION
 *****
-+ BEng in __Computer Science & Technology__, GPA: __3.83/4.0__                          <p align="right">Sept. 2017-June 2021</p>
++ BEng in __Computer Science & Technology__, GPA: __3.83/4.0__                          
+                                                                                                               <p align="right">Sept. 2017-June 2021</p>
 + Relevant Coursework:
 ```markdown
 
