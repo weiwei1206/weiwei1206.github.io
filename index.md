@@ -81,8 +81,8 @@ Neural Networks and Deep Learning, Data Warehouse and Data Mining, The Method of
         <td width="25%"><img src="/Pictures/CMLParameter.png" width="50%"></td>
 
 
-+ Contrastive Meta Learning with Behavior Multiplicity for Recommendation
-Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang   
++ __Contrastive Meta Learning with Behavior Multiplicity for Recommendation__
+<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u>   
 May 2021 - Aug. 2021
   - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
 from auxiliary to target behaviors for different users
@@ -91,8 +91,8 @@ from auxiliary to target behaviors for different users
   - The proposed multi-behavior model significantly outperforms all baselines methods under various settings
   - Submitted a conference paper to WSDM 2022 as the first author
 
-+ Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity
-Undergraduate Thesis, supervised by Dr. Chao Huang                              Nov. 2020 - June 2021
++ __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
+<u>Undergraduate Thesis, supervised by Dr. Chao Huang</u>                              Nov. 2020 - June 2021
   - Proposed a multi-behavior sequential recommendation model based on hypergraph and used self-attention  
 to model the relationship between multiple behaviors for each user
   - Implemented the dynamic timestamp processing module and multi-time granularity hypergraph module
@@ -100,20 +100,20 @@ to model the relationship between multiple behaviors for each user
   - The proposed model achieves state-of-the-art performance on three datasets, with demonstrated stability  
 and interpretability
 
-+ Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning
-Main Researcher, CAICT, supervised by Dr. Di Wu                                Apr. 2021 - July 2021
++ __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
+<u>Main Researcher, CAICT, supervised by Dr. Di Wu</u>                                Apr. 2021 - July 2021
   - Proposed the Multi-Channel Relation Modeling Net, an assembling architecture composed of   
 Recurrent Neural Networks, Graph Neural Network and Transformer modules
   - Designed multi-relation factorized pooling module to integrate multi-relation embedding
   - Devised a mutual information-based objective using self-supervised learning to generate more informative 	feature embedding
 
-+ Survey on Graph Neural Network Recommendation
-Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv                     Oct. 2020 - June 2021
++ __Survey on Graph Neural Network Recommendation__
+<u>Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv</u>                     Oct. 2020 - June 2021
   - Investigated the application of GNN in recommendation system including Sequential graph 	recommendation algorithm (MA-GNN, SR-GNN, GCE-GNN), KG-based recommendation algorithm 	(KGAT, Chorus), self-supervised graph/recommendation algorithm ( SGL, DGI, S3-Rec) and graph 	recommendation using meta network MB-GMN
   - Summarized key components of recommendation systems: objectives of the recommendation system, 	common types of data and their characteristics, recall and sorting and evaluating metrics
 
-+ Research on Pedestrian Re-ID Algorithm Based on Domain Adaptation
-Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV 
++ __Research on Pedestrian Re-ID Algorithm Based on Domain Adaptation__
+<u>Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV</u> 
 Mar. 2019 - Mar. 2020
   - Reviewed articles related to Re-ID and domain adaptation (DDC, DAN, RTN, JAN, DANN)
   - Conducted data analysis and learned to experiment through computing resources on Linux server
@@ -136,16 +136,17 @@ Mar. 2019 - Mar. 2020
 
 ### PROJECT EXPERIENCE
 *****
-+ Advanced Language Program Design C++I: Maze(DFS,BSF). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Advanced Language Program Design C++II: Library management system. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Moblile Application Development(移动应用开发(Android)): Android notes. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Python Language Programming(Python语言程序设计): Application website web crawler. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Project of Data Structures(数据结果课程设计): Machine learning algorithm and neural network for image classification. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Web Programming(Web程序设计): Hometown introduction website. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Principle of Compiler Curriculum Design(编译原理课程设计): Simple compiler. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Maze generation using DFS and BFS. (Project of Advanced Language Program Design C++I). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Library management system. (Project of Advanced Language Program Design C++II). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Android notes. (Project Moblile Application Development) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Application website web crawler. (Project of Python Language Programming) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Machine learning algorithm and neural network for image classification.(Project of Data Structures). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Hometown introduction website. (Project of Web Programming). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Machine learning algorithm and neural network for image classification.(Project of Data Structures). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + Operating System Curriculum Design(操作系统课程设计): Banker algorithm&Disk scheduling algorithm&Shell command interpreter. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Software Engineering Curriculum Design(软件工程课程设计): Mobile Market. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Diploma Project(毕业设计): Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Electronic mall. (Software Engineering Curriculum Design). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity. (Diploma Project). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
+
 
 
 ### SOFTWARE COPYRIGHT
