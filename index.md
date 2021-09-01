@@ -24,17 +24,23 @@
 
 ### EDUCATION
 *****
-+ BEng in __Computer Science & Technology__, GPA: __3.83/4.0__                                                 Sept. 2017-June 2021                          
-                                                                                                               <p align="right">Sept. 2017-June 2021</p>
-+ Relevant Coursework:
-```markdown
++ BEng in __Computer Science & Technology__, GPA: __3.83/4.0__                                                 Sept. 2017-June 2021     
 
+                    
+                                                                                                               <p align="right">Sept. 2017-June 2021</p>
+                                                                                                               
++ __Relevant Coursework__:
+
+
+```markdown
 Mathematics Analysis(Calculus Mainly), Discrete Mathematics, Linear Algebra & Analytic Geometry, Numerical Methods,
 Data Structures, Digital Logic, Design and Analysis of Algorithm, Database System, Computer Network, Embedded System, 
 Computer Organization & Architecture, Principle of Compiler, 
 Java Programming, Advanced Language Program Design(C++),
 Neural Networks and Deep Learning, Data Warehouse and Data Mining, The Method of Mathematical Modeling
 ```
+
+
 + Scholarships: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
 
 ### RESEARCH INTERESTS
