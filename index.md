@@ -29,13 +29,11 @@
 + Relevant Coursework:
 ```markdown
 
-Data Structures, Digital Logic, Design and Analysis of Algorithm, Database System,
+Mathematics Analysis(Calculus Mainly), Discrete Mathematics, Linear Algebra & Analytic Geometry, Numerical Methods,
+Data Structures, Digital Logic, Design and Analysis of Algorithm, Database System, Computer Network, Embedded System, 
 Computer Organization & Architecture, Principle of Compiler, 
-Neural Networks and Deep Learning, Java Programming, 
-
-Advanced Language Program Design(C++)
-Mathematics Analysis(Calculus Mainly), Discrete Mathematics, Linear Algebra & Analytic Geometry, Numerical Methods, Computer Network, Embedded System, 
-Data Warehouse and Data Mining, The Method of Mathematical Modeling
+Java Programming, Advanced Language Program Design(C++),
+Neural Networks and Deep Learning, Data Warehouse and Data Mining, The Method of Mathematical Modeling
 ```
 + Scholarships: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
 
@@ -51,8 +49,8 @@ Data Warehouse and Data Mining, The Method of Mathematical Modeling
 ### PUBLICATIONS
 *****
 
-+ Contrastive Meta Learning with Behavior Multiplicity for Recommendation. (WSDM2022 Submit. Primary author.) [Abstract, model diagram and part of experimental results](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised.The 3rd International Conference on Computing and Data Science (CONF-CDS). August 14, 2021. Stanford, San Francisco, US.https://www.confcds.org.(CONF-CDS2021. Accept. Independent author.) [Paper](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Wei Wei, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “Contrastive Meta Learning with Behavior Multiplicity for Recommendation”, submitted to WSDM 2022.
++ Wei Wei, “Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.
 
 
 ### RESEARCH EXPERIENCE
