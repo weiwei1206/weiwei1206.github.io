@@ -82,6 +82,7 @@ Neural Networks and Deep Learning, Data Warehouse and Data Mining, The Method of
 
 
 + __Contrastive Meta Learning with Behavior Multiplicity for Recommendation__
+
 <u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u>   
 May 2021 - Aug. 2021
   - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
@@ -92,6 +93,7 @@ from auxiliary to target behaviors for different users
   - Submitted a conference paper to WSDM 2022 as the first author
 
 + __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
+
 <u>Undergraduate Thesis, supervised by Dr. Chao Huang</u>                              Nov. 2020 - June 2021
   - Proposed a multi-behavior sequential recommendation model based on hypergraph and used self-attention  
 to model the relationship between multiple behaviors for each user
@@ -101,6 +103,7 @@ to model the relationship between multiple behaviors for each user
 and interpretability
 
 + __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
+
 <u>Main Researcher, CAICT, supervised by Dr. Di Wu</u>                                Apr. 2021 - July 2021
   - Proposed the Multi-Channel Relation Modeling Net, an assembling architecture composed of   
 Recurrent Neural Networks, Graph Neural Network and Transformer modules
@@ -108,11 +111,13 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
   - Devised a mutual information-based objective using self-supervised learning to generate more informative 	feature embedding
 
 + __Survey on Graph Neural Network Recommendation__
+
 <u>Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv</u>                     Oct. 2020 - June 2021
   - Investigated the application of GNN in recommendation system including Sequential graph 	recommendation algorithm (MA-GNN, SR-GNN, GCE-GNN), KG-based recommendation algorithm 	(KGAT, Chorus), self-supervised graph/recommendation algorithm ( SGL, DGI, S3-Rec) and graph 	recommendation using meta network MB-GMN
   - Summarized key components of recommendation systems: objectives of the recommendation system, 	common types of data and their characteristics, recall and sorting and evaluating metrics
 
 + __Research on Pedestrian Re-ID Algorithm Based on Domain Adaptation__
+
 <u>Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV</u> 
 Mar. 2019 - Mar. 2020
   - Reviewed articles related to Re-ID and domain adaptation (DDC, DAN, RTN, JAN, DANN)
