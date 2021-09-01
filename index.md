@@ -1,4 +1,3 @@
-# Welcome to WW's home page.
 ```markdown
 
 ```
@@ -21,20 +20,20 @@
 
 
 
-
 ### EDUCATION
 *****
-+ BEng in __Computer Science & Technology__, GPA: __3.83/4.0__　　　　　　　　　　　　　　　　　　　　　　　　　　Sept. 2017-June 2021                                  
++ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　　　　　　　　　Sept. 2017-June 2021                                  
 + __Relevant Coursework__:
 
-> Mathematics Analysis(Calculus Mainly),　Discrete Mathematics,　Linear Algebra & Analytic Geometry,　Numerical Methods,
-> Data Structures, Digital Logic,　Design and Analysis of Algorithm,　Database System,　Computer Network,　Embedded System, 
+> Mathematics Analysis(Calculus Mainly),　Discrete Mathematics,　Linear Algebra & Analytic Geometry,  Numerical Methods,
+> 　Data Structures,  Digital Logic,　Design and Analysis of Algorithm,　Database System,　Computer Network,　Embedded System, 
 > Computer Organization & Architecture,　Principle of Compiler, 
-> Java Programming,　Advanced Language Program Design(C++),
-> Neural Networks and Deep Learning,　Data Warehouse and Data Mining,　The Method of Mathematical Modeling
+> 　Java Programming,　Advanced Language Program Design(C++),
+> 　Neural Networks and Deep Learning,　Data Warehouse and Data Mining,　The Method of Mathematical Modeling
 
 
-+ Scholarships: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
++ __Scholarships__: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
+
 
 ### RESEARCH INTERESTS
 *****
@@ -51,14 +50,25 @@
 ### PUBLICATIONS
 *****
 
-+ __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “Contrastive Meta Learning with Behavior Multiplicity for Recommendation”, submitted to WSDM 2022.
-+ __Wei Wei__, “Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.
++ __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “__Contrastive Meta Learning with Behavior Multiplicity for Recommendation__”, submitted to __WSDM 2022__.
++ __Wei Wei__, “__Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning__”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.
 
 
 ### RESEARCH EXPERIENCE
 *****
-+ Contrastive Meta Learning with Behavior Multiplicity forRecommendation.
-    - <u>Main Researcher, supervised by Dr. Huang Chao</u>     <p align="right">May 2021 - Aug. 2021</p>
+
++ __Contrastive Meta Learning with Behavior Multiplicity for Recommendation__
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u></p>   
+May 2021 - Aug. 2021
+  - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
+from auxiliary to target behaviors for different users
+  - Designed and implemented InfoNCE loss to learn the relationship between auxiliary and target behaviors
+  - Conducted comprehensive literature review for self-supervised graph learning / contrastive learning
+  - The proposed multi-behavior model significantly outperforms all baselines methods under various settings
+  - Submitted a conference paper to WSDM 2022 as the first author
+
+
     - Main problems to be solved:
         > 1. The interaction data of the target behavior is always sparse. For example, the user always generates a large number of page views, add to favor, add to cart, and finally only one purchase. On the original retail rocket dataset, the purchase behavior is only 1%. How to use the information of auxiliary behavior to help the final recommendation task on the target behavior is a problem that needs to be solved.
         > 2. The multi behavior mode of each user is different. Some users may compare a lot of goods before buying, but some users will directly buy the goods they need.
@@ -71,6 +81,7 @@
         > 2.In our CML framework, we design a multi-behavior contrastivelearning paradigm to capture the transferable user-item rela-tionships from multi-typed user behavior data, which incorpo-rates auxiliary supervision signals into the sparse target behaviormodeling. Furthermore, our proposed meta contrastive encodingscheme allows CML to preserve the personalized multi-behaviorcharacteristics, so as to be reflective of the diverse behavior-awareuser preference under a customized self-supervised framework.
         > 3.We perform extensive experiments on three real-world recom-mendation datasets to justify the rationality of our assumptionsand the effectiveness of our proposed framework. By comparingCML with 12 baselines, we show that CML is able to consistentlyimprove the performance of different techniques under varioussettings. Further analysis demonstrates the effectiveness of thedesigned sub-modules with ablation study.
 
+
     - Some experimental results:
         - [Baseline](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
         - [Ablation Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)         
@@ -81,18 +92,6 @@
         <td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td>
         - [Parameter Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)      
         <td width="25%"><img src="/Pictures/CMLParameter.png" width="50%"></td>
-
-
-+ __Contrastive Meta Learning with Behavior Multiplicity for Recommendation__
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u></p>   
-May 2021 - Aug. 2021
-  - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
-from auxiliary to target behaviors for different users
-  - Designed and implemented InfoNCE loss to learn the relationship between auxiliary and target behaviors
-  - Conducted comprehensive literature review for self-supervised graph learning / contrastive learning
-  - The proposed multi-behavior model significantly outperforms all baselines methods under various settings
-  - Submitted a conference paper to WSDM 2022 as the first author
 
 + __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
 
@@ -130,6 +129,7 @@ Mar. 2019 - Mar. 2020
   - Conducted data analysis and learned to experiment through computing resources on Linux server
   - Won the Excellent Student Research Program (for top 5% students) of SCUT
 
+
 ### SKILLS
 *****
 + __Deep Learning&Machine Learning Library__: Pytorch, Tensorflow, sklearn, DGL
@@ -145,6 +145,7 @@ Mar. 2019 - Mar. 2020
 + __Operating Systems__: Linux(shell/command line), Windows
 + __Languages__: English (proficient), Mandarin (native)
 
+
 ### PROJECT EXPERIENCE
 *****
 + __Maze generation using DFS and BFS__. (Project of Advanced Language Program Design C++I). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
@@ -158,12 +159,12 @@ Mar. 2019 - Mar. 2020
 + __Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity. (Diploma Project)__. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 
-
 ### SOFTWARE COPYRIGHT
 *****
 + __Wei Wei__, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + Xu Dechao, __Wei Wei__, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + Li Xingyu, __Wei Wei__, Chen Yupeng. Information Mining Platform Based on Natural Language Processing Technology. China Software Copyright, 2021SR1176023. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
+
 
 ### LEADERSHIP EXPERIENCE
 *****
