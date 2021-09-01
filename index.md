@@ -30,11 +30,11 @@
                                                                                                                
 + __Relevant Coursework__:
 
-> Mathematics Analysis(Calculus Mainly),　　Discrete Mathematics,　　Linear Algebra & Analytic Geometry,　　Numerical Methods,
-> Data Structures, Digital Logic,　　Design and Analysis of Algorithm,　　Database System,　　Computer Network,　　Embedded System, 
-> Computer Organization & Architecture,　　Principle of Compiler, 
-> Java Programming,　　Advanced Language Program Design(C++),
-> Neural Networks and Deep Learning,　　Data Warehouse and Data Mining,　　The Method of Mathematical Modeling
+> Mathematics Analysis(Calculus Mainly),　Discrete Mathematics,　Linear Algebra & Analytic Geometry,　Numerical Methods,
+> Data Structures, Digital Logic,　Design and Analysis of Algorithm,　Database System,　Computer Network,　Embedded System, 
+> Computer Organization & Architecture,　Principle of Compiler, 
+> Java Programming,　Advanced Language Program Design(C++),
+> Neural Networks and Deep Learning,　Data Warehouse and Data Mining,　The Method of Mathematical Modeling
 
 
 + Scholarships: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
@@ -88,7 +88,7 @@
 
 + __Contrastive Meta Learning with Behavior Multiplicity for Recommendation__
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u></p>   
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u></p>   
 May 2021 - Aug. 2021
   - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
 from auxiliary to target behaviors for different users
@@ -99,7 +99,7 @@ from auxiliary to target behaviors for different users
 
 + __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<u>Undergraduate Thesis, supervised by Dr. Chao Huang</u></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Undergraduate Thesis, supervised by Dr. Chao Huang</u></p>
                               Nov. 2020 - June 2021
   - Proposed a multi-behavior sequential recommendation model based on hypergraph and used self-attention  
 to model the relationship between multiple behaviors for each user
@@ -110,7 +110,7 @@ and interpretability
 
 + __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, CAICT, supervised by Dr. Di Wu</u></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, CAICT, supervised by Dr. Di Wu</u></p>
                                 Apr. 2021 - July 2021
   - Proposed the Multi-Channel Relation Modeling Net, an assembling architecture composed of   
 Recurrent Neural Networks, Graph Neural Network and Transformer modules
@@ -119,14 +119,14 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 
 + __Survey on Graph Neural Network Recommendation__
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv</u></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv</u></p>
                      Oct. 2020 - June 2021
   - Investigated the application of GNN in recommendation system including Sequential graph 	recommendation algorithm (MA-GNN, SR-GNN, GCE-GNN), KG-based recommendation algorithm 	(KGAT, Chorus), self-supervised graph/recommendation algorithm ( SGL, DGI, S3-Rec) and graph 	recommendation using meta network MB-GMN
   - Summarized key components of recommendation systems: objectives of the recommendation system, 	common types of data and their characteristics, recall and sorting and evaluating metrics
 
 + __Research on Pedestrian Re-ID Algorithm Based on Domain Adaptation__
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<u>Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV</u></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV</u></p>
  
 Mar. 2019 - Mar. 2020
   - Reviewed articles related to Re-ID and domain adaptation (DDC, DAN, RTN, JAN, DANN)
