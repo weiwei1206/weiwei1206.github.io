@@ -136,16 +136,15 @@ Mar. 2019 - Mar. 2020
 
 ### PROJECT EXPERIENCE
 *****
-+ Maze generation using DFS and BFS. (Project of Advanced Language Program Design C++I). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Library management system. (Project of Advanced Language Program Design C++II). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Android notes. (Project Moblile Application Development) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Application website web crawler. (Project of Python Language Programming) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Machine learning algorithm and neural network for image classification.(Project of Data Structures). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Hometown introduction website. (Project of Web Programming). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Machine learning algorithm and neural network for image classification.(Project of Data Structures). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Operating System Curriculum Design(操作系统课程设计): Banker algorithm&Disk scheduling algorithm&Shell command interpreter. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Electronic mall. (Software Engineering Curriculum Design). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity. (Diploma Project). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Maze generation using DFS and BFS__. (Project of Advanced Language Program Design C++I). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Library management system__. (Project of Advanced Language Program Design C++II). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Android notes__. (Project Moblile Application Development) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Application website web crawler__. (Project of Python Language Programming) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Machine learning algorithm and neural network for image classification__.(Project of Data Structures). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Hometown introduction website__. (Project of Web Programming). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Banker algorithm&Disk scheduling algorithm&Shell command interpreter. (Project of Operating System Curriculum Design)__. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Electronic mall. (Software Engineering Curriculum Design)__. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity. (Diploma Project)__. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 
 
