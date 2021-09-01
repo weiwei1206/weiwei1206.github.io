@@ -24,7 +24,7 @@
 
 ### EDUCATION
 *****
-+ BEng in __Computer Science & Technology__, GPA: __3.83/4.0__                                                 Sept. 2017-June 2021     
++ BEng in __Computer Science & Technology__, GPA: __3.83/4.0__                                                    
 
                     
                                                                                                                <p align="right">Sept. 2017-June 2021</p>
@@ -40,23 +40,25 @@ Java Programming, Advanced Language Program Design(C++),
 Neural Networks and Deep Learning, Data Warehouse and Data Mining, The Method of Mathematical Modeling
 ```
 
-
 + Scholarships: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
 
 ### RESEARCH INTERESTS
 *****
+
+```markdown
 + Graph Neural Network
 + Recommender System
 + Self-Supervised Learning
 + Transfer Learning
 + Meta Learning
 + Computer Vision
+```
 
 ### PUBLICATIONS
 *****
 
-+ Wei Wei, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “Contrastive Meta Learning with Behavior Multiplicity for Recommendation”, submitted to WSDM 2022.
-+ Wei Wei, “Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.
++ __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “Contrastive Meta Learning with Behavior Multiplicity for Recommendation”, submitted to WSDM 2022.
++ __Wei Wei__, “Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.
 
 
 ### RESEARCH EXPERIENCE
@@ -161,9 +163,9 @@ Mar. 2019 - Mar. 2020
 
 ### SOFTWARE COPYRIGHT
 *****
-+ Wei Wei, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Xu Dechao, Wei Wei, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Wei Wei, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Wei Wei__, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Xu Dechao, __Wei Wei__, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Li Xingyu, __Wei Wei__, Chen Yupeng. Information Mining Platform Based on Natural Language Processing Technology. China Software Copyright, 2021SR1176023. [Certificate](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 ### LEADERSHIP EXPERIENCE
 *****
