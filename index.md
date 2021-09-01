@@ -22,7 +22,7 @@
 
 ### EDUCATION
 *****
-+ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　　　　　　　　　Sept. 2017-June 2021                                  
++ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　Sept. 2017-June 2021                                  
 + __Relevant Coursework__:
 
 > Mathematics Analysis(Calculus Mainly),　Discrete Mathematics,　Linear Algebra & Analytic Geometry,  Numerical Methods,
@@ -148,15 +148,15 @@ Mar. 2019 - Mar. 2020
 
 ### PROJECT EXPERIENCE
 *****
-+ __Maze generation using DFS and BFS__. (Project of Advanced Language Program Design C++I). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Library management system__. (Project of Advanced Language Program Design C++II). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Maze generation using __DFS and BFS__. (Project of Advanced Language Program Design C++I). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Library __management system__. (Project of Advanced Language Program Design C++II). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + __Android notes__. (Project Moblile Application Development) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Application website web crawler__. (Project of Python Language Programming) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Application website __web crawler__. (Project of Python Language Programming) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + __Machine learning algorithm and neural network for image classification__.(Project of Data Structures). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Hometown introduction website__. (Project of Web Programming). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Banker algorithm&Disk scheduling algorithm&Shell command interpreter. (Project of Operating System Curriculum Design)__. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Electronic mall. (Software Engineering Curriculum Design)__. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity. (Diploma Project)__. [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Hometown introduction __website__. (Project of Web Programming). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Banker algorithm&Disk scheduling algorithm&Shell command interpreter__. (Project of Operating System Curriculum Design). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Electronic mall__. (Software Engineering Curriculum Design). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity__. (Diploma Project). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 
 ### SOFTWARE COPYRIGHT
