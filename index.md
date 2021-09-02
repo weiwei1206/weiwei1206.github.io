@@ -169,7 +169,7 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 
 ### SOFTWARE COPYRIGHT
 *****
-+ __Wei Wei__, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. <!--[Certificate](weiwei1206.github.io/Pictures/CS1.png)  -->
++ __Wei Wei__, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=auCRvJRWEqHiI6)
 + Xu Dechao, __Wei Wei__, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate](https://maiimg.com/pdf/?e=autSosxZpHXpU6)
 + Li Xingyu, __Wei Wei__, Chen Yupeng. Information Mining Platform Based on Natural Language Processing Technology. China Software Copyright, 2021SR1176023. [Certificate](https://maiimg.com/pdf/?e=au4Lu.y47Zi.A6)
 
