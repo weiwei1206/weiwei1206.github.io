@@ -51,7 +51,7 @@
 *****
 
 + __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “__Contrastive Meta Learning with Behavior Multiplicity for Recommendation__”, submitted to __WSDM 2022__.
-+ __Wei Wei__, “__Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning__”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.
++ __Wei Wei__, “__Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning__”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.[Paper](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 
 ### RESEARCH EXPERIENCE
@@ -87,8 +87,8 @@ from auxiliary to target behaviors for different users
         <!-- - [Ablation Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)  -->      
         - Baseline
         - Ablation Experiment
-        <td width="25%"><img src="/Pictures/CMLAblationExperiment.png" width="50%"></td>
-        - [Sparsity Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
+        <!-- - <td width="25%"><img src="/Pictures/CMLAblationExperiment.png" width="50%"></td>  -->  
+        - Sparsity Experiment
         <td width="25%"><img src="/Pictures/CMLSparsityExperiment.png" width="50%"></td>
         - Case Study:           
         <td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td>
@@ -104,8 +104,7 @@ from auxiliary to target behaviors for different users
 to model the relationship between multiple behaviors for each user
   - Implemented the dynamic timestamp processing module and multi-time granularity hypergraph module
   - Designed and implemented attention module to fuse multi-behavior information
-  - The proposed model achieves state-of-the-art performance on three datasets, with demonstrated stability  
-and interpretability
+  - The proposed model achieves state-of-the-art performance on three datasets, with demonstrated stability and interpretability
 
 + __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
 
