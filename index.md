@@ -93,7 +93,7 @@ from auxiliary to target behaviors for different users
         - Case Study:           
         <td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td>
         - Parameter Experiment:      
-        <td width="25%"><img src="/Pictures/CMLParameter.png" width="50%"></td>
+        <td width="25%"><img src="/Pictures/CMLParameter.png" width="25%"></td>
 
 + __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
 
@@ -105,11 +105,10 @@ to model the relationship between multiple behaviors for each user
   - Implemented the dynamic timestamp processing module and multi-time granularity hypergraph module
   - Designed and implemented attention module to fuse multi-behavior information
   - The proposed model achieves state-of-the-art performance on three datasets, with demonstrated stability and interpretability
-
-        - Ablation Experiment:           
-        <td width="25%"><img src="/Pictures/MBA_ablation1.png" width="50%"></td>
-        - Self-attention Experiment:      
-        <td width="25%"><img src="/Pictures/MBA_self_attention.png" width="50%"></td>
+  - Ablation Experiment:           
+  <td width="25%"><img src="/Pictures/MBA_ablation1.png" width="50%"></td>
+  - Self-attention Experiment:      
+  <td width="25%"><img src="/Pictures/MBA_self_attention.png" width="50%"></td>
 
 + __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
 
@@ -177,11 +176,10 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 
 ### LEADERSHIP EXPERIENCE
 *****
-+ __Department Manager__, Technical Center of Student Association, SCUT　　　　　　　　　　Dec. 2017 - Nov. 2018                                
++ __Department Manager__, Technical Center of Student Association, SCUT　　　Dec. 2017 - Nov. 2018                                
 <!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Dec. 2017 - Nov. 2018</u></p>  -->
   - Edited promotional video with Adobe Pr and Ae, produced posters using Adobe Ai and Ps
   - Responsible for the daily maintenance and management of the official website & WeChat account
-+ __Class Monitor__　　　　　　　　　　Sept. 2017 - Sept. 2018                                                                         
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Sept. 2017 - Sept. 2018</u></p> 
++ __Class Monitor__　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Sept. 2017 - Sept. 2018                                                                 
   - Held class communication and sharing meetings to provide help for students’ career planning
   - Assisted in hosting events, such as sports meetings and evening parties
