@@ -156,14 +156,14 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 
 ### PROJECT EXPERIENCE
 *****
-+ Maze generation using __DFS and BFS__. (Project of Advanced Language Program Design C++I). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Library __management system__. (Project of Advanced Language Program Design C++II). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Android notes__. (Project Moblile Application Development) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ Application website __web crawler__. (Project of Python Language Programming) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ Maze generation using __DFS and BFS__. (Project of Advanced Language Program Design C++I). [Code](https://github.com/weiwei1206/Maze)
++ Library __management system__. (Project of Advanced Language Program Design C++II). [Code](https://github.com/weiwei1206/LibraryManagementSystem)
++ __Android notes__. (Project Moblile Application Development) . [Code](https://github.com/weiwei1206/AndroidNote)
++ Simple __compiler__. (Project of Principle of Compiler Curriculum Design)[Code](https://github.com/weiwei1206/Compiler)
++ Application website __web crawler__. (Project of Python Language Programming) . [Code](https://github.com/weiwei1206/ApplicationWebsiteWebCrawler)
 + __Machine learning algorithm and neural network for image classification__.(Project of Data Structures). [Code](https://github.com/weiwei1206/MNIST_by_eight_different_ML_ways)
-+ Hometown introduction __website__. (Project of Web Programming). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + __Banker algorithm&Disk scheduling algorithm&Shell command interpreter__. (Project of Operating System Curriculum Design). [Code](https://github.com/weiwei1206/Banker-algorithm-Disk-scheduling-algorithm-Shell-command-interpreter)
-+ __Electronic mall__. (Software Engineering Curriculum Design). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Electronic mall__. (Software Engineering Curriculum Design). [Code](https://github.com/weiwei1206/MobileMarket)
 + __Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity__. (Diploma Project). [Code](https://github.com/weiwei1206/Hypergraph-Attentive-Graph-Neural-Network-for-Sequential-Recommendation-with-Behavior-Heterogeneity)
 
 
