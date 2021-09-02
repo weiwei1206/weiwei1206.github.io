@@ -89,11 +89,11 @@ from auxiliary to target behaviors for different users
       - Ablation Experiment
       <!-- - <td width="25%"><img src="/Pictures/CMLAblationExperiment.png" width="50%"></td>  -->  
       - Sparsity Experiment:
-      <p align="center"><td width="25%"><img src="/Pictures/CMLSparsityExperiment.png" width="50%"></td></p> 
+      <p align="center"><td width="70%"><img src="/Pictures/CMLSparsityExperiment.png" width="60%"></td></p> 
       - Case Study:           
-      <p align="center"><td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td></p>
+      <p align="center"><td width="30%"><img src="/Pictures/CMLCaseStudy.png" width="70%"></td></p>
       - Parameter Experiment:      
-      <p align="center"><td width="50%"><img src="/Pictures/CMLParameter.png" width="50%"></td></p>
+      <p align="center"><td width="80%"><img src="/Pictures/CMLParameter.png" width="80%"></td></p>
 
 + __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
 
