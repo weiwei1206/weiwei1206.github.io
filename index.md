@@ -59,8 +59,8 @@
 
 + __Contrastive Meta Learning with Behavior Multiplicity for Recommendation__
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u></p>   
-May 2021 - Aug. 2021
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u></p>   
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>May 2021 - Aug. 2021</u></p>
   - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
 from auxiliary to target behaviors for different users
   - Designed and implemented InfoNCE loss to learn the relationship between auxiliary and target behaviors
@@ -77,26 +77,29 @@ from auxiliary to target behaviors for different users
         
         
     - Main contributions:
-        > 1. We propose a new multi-behavior learning paradigm CML forrecommendation by emphasizing the importance of diverse andmultiplex user-item relationships, as well as the tackling the labelscarcity problem for target behaviors.
-        > 2.In our CML framework, we design a multi-behavior contrastivelearning paradigm to capture the transferable user-item rela-tionships from multi-typed user behavior data, which incorpo-rates auxiliary supervision signals into the sparse target behaviormodeling. Furthermore, our proposed meta contrastive encodingscheme allows CML to preserve the personalized multi-behaviorcharacteristics, so as to be reflective of the diverse behavior-awareuser preference under a customized self-supervised framework.
-        > 3.We perform extensive experiments on three real-world recom-mendation datasets to justify the rationality of our assumptionsand the effectiveness of our proposed framework. By comparingCML with 12 baselines, we show that CML is able to consistentlyimprove the performance of different techniques under varioussettings. Further analysis demonstrates the effectiveness of thedesigned sub-modules with ablation study.
+        - > 1. We propose a new multi-behavior learning paradigm CML forrecommendation by emphasizing the importance of diverse andmultiplex user-item relationships, as well as the tackling the labelscarcity problem for target behaviors.
+        - > 2.In our CML framework, we design a multi-behavior contrastivelearning paradigm to capture the transferable user-item rela-tionships from multi-typed user behavior data, which incorpo-rates auxiliary supervision signals into the sparse target behaviormodeling. Furthermore, our proposed meta contrastive encodingscheme allows CML to preserve the personalized multi-behaviorcharacteristics, so as to be reflective of the diverse behavior-awareuser preference under a customized self-supervised framework.
+        - > 3.We perform extensive experiments on three real-world recom-mendation datasets to justify the rationality of our assumptionsand the effectiveness of our proposed framework. By comparingCML with 12 baselines, we show that CML is able to consistentlyimprove the performance of different techniques under varioussettings. Further analysis demonstrates the effectiveness of thedesigned sub-modules with ablation study.
 
 
     - Some experimental results:
-        - [Baseline](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-        - [Ablation Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)         
+        <!-- - [Baseline](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)  -->
+        <!-- - [Ablation Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)  -->      
+        - Baseline
+        - Ablation Experiment
         <td width="25%"><img src="/Pictures/CMLAblationExperiment.png" width="50%"></td>
         - [Sparsity Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
         <td width="25%"><img src="/Pictures/CMLSparsityExperiment.png" width="50%"></td>
         - Case Study:           
         <td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td>
-        - [Parameter Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)      
+        - Parameter Experiment:      
         <td width="25%"><img src="/Pictures/CMLParameter.png" width="50%"></td>
 
 + __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Undergraduate Thesis, supervised by Dr. Chao Huang</u></p>
-                              Nov. 2020 - June 2021
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Nov. 2020 - June 2021</u></p>
+                              
   - Proposed a multi-behavior sequential recommendation model based on hypergraph and used self-attention  
 to model the relationship between multiple behaviors for each user
   - Implemented the dynamic timestamp processing module and multi-time granularity hypergraph module
@@ -107,7 +110,8 @@ and interpretability
 + __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, CAICT, supervised by Dr. Di Wu</u></p>
-                                Apr. 2021 - July 2021
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Apr. 2021 - July 2021</u></p>
+                             
   - Proposed the Multi-Channel Relation Modeling Net, an assembling architecture composed of   
 Recurrent Neural Networks, Graph Neural Network and Transformer modules
   - Designed multi-relation factorized pooling module to integrate multi-relation embedding
@@ -116,15 +120,16 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 + __Survey on Graph Neural Network Recommendation__
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv</u></p>
-                     Oct. 2020 - June 2021
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Oct. 2020 - June 2021</u></p>
+                     
   - Investigated the application of GNN in recommendation system including Sequential graph 	recommendation algorithm (MA-GNN, SR-GNN, GCE-GNN), KG-based recommendation algorithm 	(KGAT, Chorus), self-supervised graph/recommendation algorithm ( SGL, DGI, S3-Rec) and graph 	recommendation using meta network MB-GMN
   - Summarized key components of recommendation systems: objectives of the recommendation system, 	common types of data and their characteristics, recall and sorting and evaluating metrics
 
 + __Research on Pedestrian Re-ID Algorithm Based on Domain Adaptation__
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV</u></p>
- 
-Mar. 2019 - Mar. 2020
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Mar. 2019 - Mar. 2020</u></p> 
+
   - Reviewed articles related to Re-ID and domain adaptation (DDC, DAN, RTN, JAN, DANN)
   - Conducted data analysis and learned to experiment through computing resources on Linux server
   - Won the Excellent Student Research Program (for top 5% students) of SCUT
