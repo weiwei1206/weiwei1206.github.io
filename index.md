@@ -22,7 +22,7 @@
 
 ### EDUCATION
 *****
-+ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　　　Sept. 2017-June 2021                                  
++ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　　　　　Sept. 2017-June 2021                                  
 + __Relevant Coursework__:
 
 > Mathematics Analysis(Calculus Mainly),　Discrete Mathematics,　Linear Algebra & Analytic Geometry,  Numerical Methods,
@@ -51,7 +51,7 @@
 *****
 
 + __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “__Contrastive Meta Learning with Behavior Multiplicity for Recommendation__”, submitted to __WSDM 2022__.
-+ __Wei Wei__, “__Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning__”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.[Paper](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Wei Wei__, “__Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning__”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.[[Paper]](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 
 ### RESEARCH EXPERIENCE
@@ -73,7 +73,7 @@ from auxiliary to target behaviors for different users
         > 1. The interaction data of the target behavior is always sparse. For example, the user always generates a large number of page views, add to favor, add to cart, and finally only one purchase. On the original retail rocket dataset, the purchase behavior is only 1%. How to use the information of auxiliary behavior to help the final recommendation task on the target behavior is a problem that needs to be solved.
         > 2. The multi behavior mode of each user is different. Some users may compare a lot of goods before buying, but some users will directly buy the goods they need.
      - Framework:
-          <td width="100%"><img src="/Pictures/CMLFramework.png" width="100%"></td>
+          <p align="center"><td width="25%"><td width="100%"><img src="/Pictures/CMLFramework.png" width="100%"></td>
         
         
     - Main contributions:
@@ -89,11 +89,11 @@ from auxiliary to target behaviors for different users
         - Ablation Experiment
         <!-- - <td width="25%"><img src="/Pictures/CMLAblationExperiment.png" width="50%"></td>  -->  
         - Sparsity Experiment:
-        <td width="25%"><img src="/Pictures/CMLSparsityExperiment.png" width="50%"></td>
+        <p align="center"><td width="25%"><td width="25%"><img src="/Pictures/CMLSparsityExperiment.png" width="50%"></td></p>
         - Case Study:           
-        <td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td>
+        <p align="center"><td width="25%"><td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td></p>
         - Parameter Experiment:      
-        <td width="50%"><img src="/Pictures/CMLParameter.png" width="50%"></td>
+        <p align="center"><td width="25%"><td width="50%"><img src="/Pictures/CMLParameter.png" width="50%"></td></p>
 
 + __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
 
@@ -160,7 +160,7 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 + Library __management system__. (Project of Advanced Language Program Design C++II). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + __Android notes__. (Project Moblile Application Development) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + Application website __web crawler__. (Project of Python Language Programming) . [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-+ __Machine learning algorithm and neural network for image classification__.(Project of Data Structures). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
++ __Machine learning algorithm and neural network for image classification__.(Project of Data Structures). [Code](https://github.com/weiwei1206/MNIST_by_eight_different_ML_ways)
 + Hometown introduction __website__. (Project of Web Programming). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + __Banker algorithm&Disk scheduling algorithm&Shell command interpreter__. (Project of Operating System Curriculum Design). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 + __Electronic mall__. (Software Engineering Curriculum Design). [Code](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
@@ -180,6 +180,6 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 <!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Dec. 2017 - Nov. 2018</u></p>  -->
   - Edited promotional video with Adobe Pr and Ae, produced posters using Adobe Ai and Ps
   - Responsible for the daily maintenance and management of the official website & WeChat account
-+ __Class Monitor__　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Sept. 2017 - Sept. 2018                                                                 
++ __Class Monitor__　　　　　　　　　　　　　　　　　　　　　　　　　　Sept. 2017 - Sept. 2018                                                                 
   - Held class communication and sharing meetings to provide help for students’ career planning
   - Assisted in hosting events, such as sports meetings and evening parties
