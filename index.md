@@ -22,7 +22,7 @@
 
 ### EDUCATION
 *****
-+ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　Sept. 2017-June 2021                                  
++ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　　　Sept. 2017-June 2021                                  
 + __Relevant Coursework__:
 
 > Mathematics Analysis(Calculus Mainly),　Discrete Mathematics,　Linear Algebra & Analytic Geometry,  Numerical Methods,
@@ -88,7 +88,7 @@ from auxiliary to target behaviors for different users
         - Baseline
         - Ablation Experiment
         <!-- - <td width="25%"><img src="/Pictures/CMLAblationExperiment.png" width="50%"></td>  -->  
-        - Sparsity Experiment
+        - Sparsity Experiment:
         <td width="25%"><img src="/Pictures/CMLSparsityExperiment.png" width="50%"></td>
         - Case Study:           
         <td width="25%"><img src="/Pictures/CMLCaseStudy.png" width="50%"></td>
@@ -105,6 +105,11 @@ to model the relationship between multiple behaviors for each user
   - Implemented the dynamic timestamp processing module and multi-time granularity hypergraph module
   - Designed and implemented attention module to fuse multi-behavior information
   - The proposed model achieves state-of-the-art performance on three datasets, with demonstrated stability and interpretability
+
+        - Ablation Experiment:           
+        <td width="25%"><img src="/Pictures/MBA_ablation1.png" width="50%"></td>
+        - Self-attention Experiment:      
+        <td width="25%"><img src="/Pictures/MBA_self_attention.png" width="50%"></td>
 
 + __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
 
@@ -165,18 +170,18 @@ Recurrent Neural Networks, Graph Neural Network and Transformer modules
 
 ### SOFTWARE COPYRIGHT
 *****
-+ __Wei Wei__, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](weiwei1206.github.io/Pictures/CS1.png)
-+ Xu Dechao, __Wei Wei__, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate]weiwei1206.github.io/Pictures/CS1.png)
-+ Li Xingyu, __Wei Wei__, Chen Yupeng. Information Mining Platform Based on Natural Language Processing Technology. China Software Copyright, 2021SR1176023. [Certificate](weiwei1206.github.io/Pictures/CS1.png)
++ __Wei Wei__, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. <!--[Certificate](weiwei1206.github.io/Pictures/CS1.png)  -->
++ Xu Dechao, __Wei Wei__, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate](https://maiimg.com/pdf/?e=autSosxZpHXpU6)
++ Li Xingyu, __Wei Wei__, Chen Yupeng. Information Mining Platform Based on Natural Language Processing Technology. China Software Copyright, 2021SR1176023. [Certificate](https://maiimg.com/pdf/?e=au4Lu.y47Zi.A6)
 
 
 ### LEADERSHIP EXPERIENCE
 *****
-+ __Department Manager__, Technical Center of Student Association, SCUT                                
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Dec. 2017 - Nov. 2018</u></p> 
++ __Department Manager__, Technical Center of Student Association, SCUT　　　　　　　　　　Dec. 2017 - Nov. 2018                                
+<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Dec. 2017 - Nov. 2018</u></p>  -->
   - Edited promotional video with Adobe Pr and Ae, produced posters using Adobe Ai and Ps
   - Responsible for the daily maintenance and management of the official website & WeChat account
-+ __Class Monitor__                                                                         
++ __Class Monitor__　　　　　　　　　　Sept. 2017 - Sept. 2018                                                                         
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Sept. 2017 - Sept. 2018</u></p> 
   - Held class communication and sharing meetings to provide help for students’ career planning
   - Assisted in hosting events, such as sports meetings and evening parties
