@@ -9,7 +9,7 @@
       <p><b>BEng in Computer Science & Technology</b></p>
       <p><b>South China University of Technology (SCUT)</b></p>
       <p><b>Email：csweiw@mail.scut.edu.cn</b></p>   
-      <p><b>Phone number：csweiw@mail.scut.edu.cn</b></p>
+      <p><b>Phone number：15902066106</b></p>
       <!--<p><b>Address：Dongguan Zhuang Road, TianHe District, Guangzhou, 510630, Guangdong Province, China</b></p>-->
     </td>
     <td width="25%">
