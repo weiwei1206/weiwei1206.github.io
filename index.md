@@ -50,7 +50,7 @@
 ### PUBLICATIONS
 *****
 
-+ __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “__Contrastive Meta Learning with Behavior Multiplicity for Recommendation__”, submitted to __WSDM 2022__.
++ __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “__Contrastive Meta Learning with Behavior Multiplicity for Recommendation__”, accepted by __WSDM 2022__.(Cadidate of the best paper)
 + __Wei Wei__, “__Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning__”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.[Paper](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
 
 
