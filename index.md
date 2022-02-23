@@ -1,185 +1,316 @@
-```markdown
 
-```
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>WeiWei</h1>
-      <p><b>BEng in Computer Science & Technology</b></p>
-      <p><b>South China University of Technology (SCUT)</b></p>
-      <p><b>Email：csweiw@mail.scut.edu.cn</b></p>   
-      <p><b>Phone number：15902066106</b></p>
-      <!--<p><b>Address：Dongguan Zhuang Road, TianHe District, Guangzhou, 510630, Guangdong Province, China</b></p>-->
-    </td>
-    <td width="25%">
-      <img src="/Pictures/WW.jpg" width="100%">      
-    </td>
-  </tr>
-</table>
-
-
-
-### EDUCATION
-*****
-+ __BEng in Computer Science & Technology, GPA: 3.83/4.0__　　　　　　　　　Sept. 2017-June 2021                                  
-+ __Relevant Coursework__:
-
-> Mathematics Analysis(Calculus Mainly),　Discrete Mathematics,　Linear Algebra & Analytic Geometry,  Numerical Methods,
-> 　Data Structures,  Digital Logic,　Design and Analysis of Algorithm,　Database System,　Computer Network,　Embedded System, 
-> Computer Organization & Architecture,　Principle of Compiler, 
-> 　Java Programming,　Advanced Language Program Design(C++),
-> 　Neural Networks and Deep Learning,　Data Warehouse and Data Mining,　The Method of Mathematical Modeling
-
-
-+ __Scholarships__: Second-class Scholarship of SCUT (2017-18), Third-class Scholarship of SCUT (2019)
-
-
-### RESEARCH INTERESTS
-*****
-
-```markdown
-+ Graph Neural Network
-+ Recommender System
-+ Self-Supervised Learning
-+ Transfer Learning
-+ Meta Learning
-+ Computer Vision
-```
-
-### PUBLICATIONS
-*****
-
-+ __Wei Wei__, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, Dawei Yin, “__Contrastive Meta Learning with Behavior Multiplicity for Recommendation__”, accepted by __WSDM 2022__.(Cadidate of the best paper)
-+ __Wei Wei__, “__Multi-channel Relation Modeling for Session-based Recommendation with Self-supervised Learning__”, accepted by the 3rd International Conference on Computing and Data Science (CONF-CDS 2021), August 14, 2021. Stanford, San Francisco, US, CDS_0429.[Paper](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)
-
-
-### RESEARCH EXPERIENCE
-*****
-
-+ __Contrastive Meta Learning with Behavior Multiplicity for Recommendation__
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, Visual Computing Research Center of SCUT, supervised by Dr. Chao Huang</u></p>   
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>May 2021 - Aug. 2021</u></p>
-  - Proposed a novel multi-behavior contrastive meta-learning framework to distill transferable knowledge        
-from auxiliary to target behaviors for different users
-  - Designed and implemented InfoNCE loss to learn the relationship between auxiliary and target behaviors
-  - Conducted comprehensive literature review for self-supervised graph learning / contrastive learning
-  - The proposed multi-behavior model significantly outperforms all baselines methods under various settings
-  - Submitted a conference paper to WSDM 2022 as the first author
-
-
-    - Main problems to be solved:
-        > 1. The interaction data of the target behavior is always sparse. For example, the user always generates a large number of page views, add to favor, add to cart, and finally only one purchase. On the original retail rocket dataset, the purchase behavior is only 1%. How to use the information of auxiliary behavior to help the final recommendation task on the target behavior is a problem that needs to be solved.
-        > 2. The multi behavior mode of each user is different. Some users may compare a lot of goods before buying, but some users will directly buy the goods they need.
-     - Framework:
-          <p align="center"><td width="25%"><td width="100%"><img src="/Pictures/CMLFramework.png" width="100%"></td>
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.1">
+    
+    
+      
+        <title>Yuhao Yang's Homepage</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.9299cb39.min.css">
+      
         
+        <link rel="stylesheet" href="assets/stylesheets/palette.ef6f36e2.min.css">
         
-    - Main contributions:
-        - > 1. We propose a new multi-behavior learning paradigm CML forrecommendation by emphasizing the importance of diverse andmultiplex user-item relationships, as well as the tackling the labelscarcity problem for target behaviors.
-        - > 2.In our CML framework, we design a multi-behavior contrastivelearning paradigm to capture the transferable user-item rela-tionships from multi-typed user behavior data, which incorpo-rates auxiliary supervision signals into the sparse target behaviormodeling. Furthermore, our proposed meta contrastive encodingscheme allows CML to preserve the personalized multi-behaviorcharacteristics, so as to be reflective of the diverse behavior-awareuser preference under a customized self-supervised framework.
-        - > 3.We perform extensive experiments on three real-world recom-mendation datasets to justify the rationality of our assumptionsand the effectiveness of our proposed framework. By comparingCML with 12 baselines, we show that CML is able to consistentlyimprove the performance of different techniques under varioussettings. Further analysis demonstrates the effectiveness of thedesigned sub-modules with ablation study.
+          
+          
+          <meta name="theme-color" content="#ffffff">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:300,400,400i,700%7C&display=fallback">
+        <style>:root{--md-text-font-family:"Noto Sans SC";--md-code-font-family:""}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+    
+      
+	  <!-- Global site tag (gtag.js) - Google Analytics -->
+	  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FGHNC7GCVQ"></script>
+	  <script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-FGHNC7GCVQ');
+	  </script>
+
+      
+    
+  </head>
+
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="white" data-md-color-accent="blue">
+  
+    
+    <script>function __prefix(e){return new URL(".",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#yuhao-yang" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Yuhao Yang (杨雨豪)" class="md-header__button md-logo" aria-label="Yuhao Yang (杨雨豪)" data-md-component="logo">
+      
+  <img src="img/favicon.ico" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Welcome to Yuhao Yang's homepage
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs"  style="position: fixed;">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
 
 
-    - Some experimental results:
-      <!-- - [Baseline](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)  -->
-      <!-- - [Ablation Experiment](https://maiimg.com/pdf/?e=aubtqiOLu6WNc6)  -->      
-      - Baseline
-      - Ablation Experiment
-      <!-- - <td width="25%"><img src="/Pictures/CMLAblationExperiment.png" width="50%"></td>  -->  
-      - Sparsity Experiment:
-      <p align="center"><td width="70%"><img src="/Pictures/CMLSparsityExperiment.png" width="60%"></td></p> 
-      - Case Study:           
-      <p align="center"><td width="30%"><img src="/Pictures/CMLCaseStudy.png" width="70%"></td></p>
-      - Parameter Experiment:      
-      <p align="center"><td width="80%"><img src="/Pictures/CMLParameter.png" width="80%"></td></p>
+  <li class="md-tabs__item">
+    <a href="." class="md-tabs__link md-tabs__link--active">
+      Home
+    </a>
+  </li>
 
-+ __Hypergraph Attentive GNN for Sequential Recommendation with Behavior Heterogeneity__
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Undergraduate Thesis, supervised by Dr. Chao Huang</u></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Nov. 2020 - June 2021</u></p>
-                              
-  - Proposed a multi-behavior sequential recommendation model based on hypergraph and used self-attention  
-to model the relationship between multiple behaviors for each user
-  - Implemented the dynamic timestamp processing module and multi-time granularity hypergraph module
-  - Designed and implemented attention module to fuse multi-behavior information
-  - The proposed model achieves state-of-the-art performance on three datasets, with demonstrated stability and interpretability
-  - Ablation Experiment:           
-  <p align="center"><td width="25%"><img src="/Pictures/MBA_ablation1.png" width="50%"></td></p>
-  - Self-attention Experiment:      
-  <p align="center"><td width="25%"><img src="/Pictures/MBA_self_attention.png" width="50%"></td></p>
-
-+ __Multi-channel Relation Modeling for Session-Based Recommendation with Self-Supervised Learning__
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, CAICT, supervised by Dr. Di Wu</u></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Apr. 2021 - July 2021</u></p>
-                             
-  - Proposed the Multi-Channel Relation Modeling Net, an assembling architecture composed of   
-Recurrent Neural Networks, Graph Neural Network and Transformer modules
-  - Designed multi-relation factorized pooling module to integrate multi-relation embedding
-  - Devised a mutual information-based objective using self-supervised learning to generate more informative 	feature embedding
-
-+ __Survey on Graph Neural Network Recommendation__
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Main Researcher, VCRC of SCUT, supervised by Prof. Yong Xv</u></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Oct. 2020 - June 2021</u></p>
-                     
-  - Investigated the application of GNN in recommendation system including Sequential graph 	recommendation algorithm (MA-GNN, SR-GNN, GCE-GNN), KG-based recommendation algorithm 	(KGAT, Chorus), self-supervised graph/recommendation algorithm ( SGL, DGI, S3-Rec) and graph 	recommendation using meta network MB-GMN
-  - Summarized key components of recommendation systems: objectives of the recommendation system, 	common types of data and their characteristics, recall and sorting and evaluating metrics
-
-+ __Research on Pedestrian Re-ID Algorithm Based on Domain Adaptation__
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Research Assistant, Intelligent Information Fusion Research Group, supervised by Prof. Jianming LV</u></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Mar. 2019 - Mar. 2020</u></p> 
-
-  - Reviewed articles related to Re-ID and domain adaptation (DDC, DAN, RTN, JAN, DANN)
-  - Conducted data analysis and learned to experiment through computing resources on Linux server
-  - Won the Excellent Student Research Program (for top 5% students) of SCUT
+      
+        
+  
+  
 
 
-### SKILLS
-*****
-+ __Deep Learning&Machine Learning Library__: Pytorch, Tensorflow, sklearn, DGL
-+ __Python Library for data preprocessing__: scipy, pandas ,pickle, numpy
-+ __Read&Write Paper__: Mendeley, Latex(Overleaf), Ability to quickly understand the point of the article in professional fields(Have already read a lot of literature)
-+ __Configure environment__:
-    - _Hardware_: Having a machine with RTX3090, 1T SSD, 64G internal memory 
-, 1000W power supply and i7 tenth generation processor
-    - _Software_: Installing the Ubuntu/Windows system, CUDA, cuDNN, Anaconda, Common IDE
-+ __Programming Languages__: Python, C/C++, Markdown, HTML, CSS, Java Script
-+ __Database__: MySQL
-+ __Other Software__: Github, Mendeley, Latex, Conda
-+ __Operating Systems__: Linux(shell/command line), Windows
-+ __Languages__: English (proficient), Mandarin (native)
+  <li class="md-tabs__item">
+    <a href="research/" class="md-tabs__link">
+      Research
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+<!-- bio -->
+              
+
+                <h1 id="yuhao-yang">Yuhao Yang (杨雨豪)</h1>
+<p><img align="left" alt="" src="img/selfie_s.jpg" />
+<strong>Undergraduate Student at School of Computer Science</strong>, <strong>Wuhan University</strong></p>
+<h5 id="about">About</h5>
+<p>Hi! I am a last year undergraduate @ <a href="https://github.com/WHUIR">WHUIR Group</a> under the supervision of <a href="http://www.lichenliang.net/">Prof. &nbsp;Chenliang Li</a>. I'll join <a href="https://sites.google.com/view/chaoh/group-join-us">Data Intelligence Lab@HKU</a> in Autumn 2022 to pursue my Ph.D. degree under the advice of <a href="https://sites.google.com/view/chaoh/home">Prof. &nbsp;Chao Huang.</a>
+<p>My research interests lie in the intersection of <strong>Information Retrieval</strong> between <strong>Data Mining</strong> and <strong>NLP</strong>. Especially, I focus on recommendation, user modeling and web search related issues. I'm passionate about exploring solid innovations with good interpretability and simplicity in machine learning methods and their applications. Besides, I am open to academic collaborations and please drop me an email if you have a research proposal.</p>
+
+<!-- social contact -->
+<br>
+<h5 id="social">Follow</h5>
+<p><a href="mailto:yhyeung@whu.edu.cn"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M1.75 3A1.75 1.75 0 0 0 0 4.75v14c0 .966.784 1.75 1.75 1.75h20.5A1.75 1.75 0 0 0 24 18.75v-14A1.75 1.75 0 0 0 22.25 3H1.75zM1.5 4.75a.25.25 0 0 1 .25-.25h20.5a.25.25 0 0 1 .25.25v.852l-10.36 7a.25.25 0 0 1-.28 0l-10.36-7V4.75zm0 2.662V18.75c0 .138.112.25.25.25h20.5a.25.25 0 0 0 .25-.25V7.412l-9.52 6.433c-.592.4-1.368.4-1.96 0L1.5 7.412z"/></svg></span></a> &emsp; <a href="https://github.com/yuh-yang"><span class="twemoji github"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 16"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 0 0-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"/></svg></span></a> &emsp; <a href="https://scholar.google.com/citations?user=kCGC_DMAAAAJ"><span class="twemoji google"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512"><path d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"/></svg></span></a></p>
+
+<!-- <h5 id="cv">CV</h5>
+<p><a href="./resources/CV_yuhaoyang.pdf"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M369.9 97.9 286 14C277 5 264.8-.1 252.1-.1H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V131.9c0-12.7-5.1-25-14.1-34zM332.1 128H256V51.9l76.1 76.1zM48 464V48h160v104c0 13.3 10.7 24 24 24h104v288H48zm250.2-143.7c-12.2-12-47-8.7-64.4-6.5-17.2-10.5-28.7-25-36.8-46.3 3.9-16.1 10.1-40.6 5.4-56-4.2-26.2-37.8-23.6-42.6-5.9-4.4 16.1-.4 38.5 7 67.1-10 23.9-24.9 56-35.4 74.4-20 10.3-47 26.2-51 46.2-3.3 15.8 26 55.2 76.1-31.2 22.4-7.4 46.8-16.5 68.4-20.1 18.9 10.2 41 17 55.8 17 25.5 0 28-28.2 17.5-38.7zm-198.1 77.8c5.1-13.7 24.5-29.5 30.4-35-19 30.3-30.4 35.7-30.4 35zm81.6-190.6c7.4 0 6.7 32.1 1.8 40.8-4.4-13.9-4.3-40.8-1.8-40.8zm-24.4 136.6c9.7-16.9 18-37 24.7-54.7 8.3 15.1 18.9 27.2 30.1 35.5-20.8 4.3-38.9 13.1-54.8 19.2zm131.6-5s-5 6-37.3-7.8c35.1-2.6 40.9 5.4 37.3 7.8z"/></svg></span></a></p> -->
+
+<!-- publications -->
+
+<h2 id="publications">Publications</h2>
+<h5 id="corresponding-author-equal-contribution">(<sup>*</sup>=corresponding author, <sup>†</sup>=Equal Contribution)</h5>
+<ul>
+<li>
+<p><strong>Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation.</strong></p>
+<p>Yu Tian<sup>†</sup>, <strong>Yuhao Yang<sup>†</sup></strong>, Xudong Ren<sup>†</sup>, Pengfei Wang, Fangzhao Wu, Qian Wang, Chenliang Li<sup>*</sup>.</p>
+<p><em>The 44th Annual International ACM SIGIR Conference</em> <strong><em>(SIGIR'21).</em></strong> July 11-15, 2021 [Full paper]</p>
+<p><a href="../resources/kopra.pdf"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M369.9 97.9 286 14C277 5 264.8-.1 252.1-.1H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V131.9c0-12.7-5.1-25-14.1-34zM332.1 128H256V51.9l76.1 76.1zM48 464V48h160v104c0 13.3 10.7 24 24 24h104v288H48zm250.2-143.7c-12.2-12-47-8.7-64.4-6.5-17.2-10.5-28.7-25-36.8-46.3 3.9-16.1 10.1-40.6 5.4-56-4.2-26.2-37.8-23.6-42.6-5.9-4.4 16.1-.4 38.5 7 67.1-10 23.9-24.9 56-35.4 74.4-20 10.3-47 26.2-51 46.2-3.3 15.8 26 55.2 76.1-31.2 22.4-7.4 46.8-16.5 68.4-20.1 18.9 10.2 41 17 55.8 17 25.5 0 28-28.2 17.5-38.7zm-198.1 77.8c5.1-13.7 24.5-29.5 30.4-35-19 30.3-30.4 35.7-30.4 35zm81.6-190.6c7.4 0 6.7 32.1 1.8 40.8-4.4-13.9-4.3-40.8-1.8-40.8zm-24.4 136.6c9.7-16.9 18-37 24.7-54.7 8.3 15.1 18.9 27.2 30.1 35.5-20.8 4.3-38.9 13.1-54.8 19.2zm131.6-5s-5 6-37.3-7.8c35.1-2.6 40.9 5.4 37.3 7.8z"/></svg></span></a> &emsp; <a href="https://github.com/WHUIR/KOPRA"><span class="twemoji github"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 16"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 0 0-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"/></svg></span></a></p>
+</li>
+</ul>
+
+<!-- awards -->
+
+<h2 id="awards-honors">Awards &amp; Honors</h2>
+<ul>
+<li>AEON Scholarship, <strong><em>AEON 1% Club Foundation</em></strong>, 2020</li>
+<li>Outstanding Student First-Class Scholarship, <strong><em>Wuhan University</em></strong>, 2020</li>
+<li>Outstanding Student Second-Class Scholarship, <strong><em>Wuhan University</em></strong>, 2019</li>
+</ul>
+
+<!-- experience -->
+
+<h2 id="experience">Experience</h2>
+<ul>
+<li>
+  <p><strong>Research Intern, University of Hong Kong</strong></p>
+  <p><em>July 2021 - Oct 2021</em></p>
+  <p><em>Advised by Prof. &nbsp;Chao Huang</em></p>
+</li>
+<li>
+<p><strong>Attendee</strong></p>
+<p><em>Jul 2021</em></p>
+<p><em>The 44th Annual International ACM SIGIR Conference</em> <strong><em>(SIGIR'21).</em></strong></p>
+</li>
+<li>
+<p><strong>Research Intern, The Chinese University of Hong Kong</strong></p>
+<p><em>Mar 2021 - Jun 2021</em></p>
+<p><em><a href="https://www.cse.cuhk.edu.hk/irwin.king/wisc_lab/home">WISC Lab</a>, advised by <a href="https://www.cse.cuhk.edu.hk/irwin.king/home">Prof. &nbsp;Irwin King</a></em></p>
+</li>
+<li>
+<p><strong>Attendee</strong></p>
+<p><em>Dec 2020</em></p>
+<p><em>The 15th NII Testbeds and Community for Information Access Research</em> <strong><em>(NTCIR-15).</em></strong></p>
+</li>
+<li>
+<p><strong>Research Intern, Wuhan University</strong></p>
+<p><em>Mar 2020 - Present</em></p>
+<p><em><a href="https://github.com/WHUIR">WHUIR Group</a>, advised by <a href="http://www.lichenliang.net/">Prof. &nbsp;Chenliang Li</a></em></p>
+</li>
+</ul>                
+                  
+                
+              
+              
+                
 
 
-### PROJECT EXPERIENCE
-*****
-+ Maze generation using __DFS and BFS__. (Project of Advanced Language Program Design C++I). [Code](https://github.com/weiwei1206/Maze)
-+ Library __management system__. (Project of Advanced Language Program Design C++II). [Code](https://github.com/weiwei1206/LibraryManagementSystem)
-+ __Android notes__. (Project Moblile Application Development) . [Code](https://github.com/weiwei1206/AndroidNote)
-+ Simple __compiler__. (Project of Principle of Compiler Curriculum Design)[Code](https://github.com/weiwei1206/Compiler)
-+ Application website __web crawler__. (Project of Python Language Programming) . [Code](https://github.com/weiwei1206/ApplicationWebsiteWebCrawler)
-+ __Machine learning algorithm and neural network for image classification__.(Project of Data Structures). [Code](https://github.com/weiwei1206/MNIST_by_eight_different_ML_ways)
-+ __Banker algorithm&Disk scheduling algorithm&Shell command interpreter__. (Project of Operating System Curriculum Design). [Code](https://github.com/weiwei1206/Banker-algorithm-Disk-scheduling-algorithm-Shell-command-interpreter)
-+ __Electronic mall__. (Software Engineering Curriculum Design). [Code](https://github.com/weiwei1206/MobileMarket)
-+ __Hypergraph Attentive Graph Neural Network for Sequential Recommendation with Behavior Heterogeneity__. (Diploma Project). [Code](https://github.com/weiwei1206/Hypergraph-Attentive-Graph-Neural-Network-for-Sequential-Recommendation-with-Behavior-Heterogeneity)
-
-
-### SOFTWARE COPYRIGHT
-*****
-+ __Wei Wei__, New Product Recommendation Platform Based on Machine Learning. China Software Copyright, 2021SR1077293. [Certificate](https://maiimg.com/pdf/?e=aun7zyqUWYdbg6)
-+ Xu Dechao, __Wei Wei__, Huang Weijun. Traffic Information Flow Processing Platform Based on Deep Learning. China Software Copyright, 2021SR1171249. [Certificate](https://maiimg.com/pdf/?e=autSosxZpHXpU6)
-+ Li Xingyu, __Wei Wei__, Chen Yupeng. Information Mining Platform Based on Natural Language Processing Technology. China Software Copyright, 2021SR1176023. [Certificate](https://maiimg.com/pdf/?e=au4Lu.y47Zi.A6)
-
-
-### LEADERSHIP EXPERIENCE
-*****
-+ __Department Manager__, Technical Center of Student Association, SCUT　　　Dec. 2017 - Nov. 2018                                
-<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Dec. 2017 - Nov. 2018</u></p>  -->
-  - Edited promotional video with Adobe Pr and Ae, produced posters using Adobe Ai and Ps
-  - Responsible for the daily maintenance and management of the official website & WeChat account
-+ __Class Monitor__　　　　　　　　　　　　　　　　　　　　　　　　　　Sept. 2017 - Sept. 2018                                                                 
-  - Held class communication and sharing meetings to provide help for students’ career planning
-  - Assisted in hosting events, such as sports meetings and evening parties
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+      
+        <a href="research/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                More Information About My
+              </span>
+              Research
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.tabs", "navigation.tabs.sticky"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    
+    
+      <!-- <script src="assets/javascripts/bundle.7353b375.min.js"></script> -->
+      
+    
+  </body>
+</html>
